@@ -1,0 +1,540 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In this book is the figure of the dividing the land of Israel among the tribes of Israel ... wherein is the figure of the bigness of the priest's portion, and temple therein, and of the Levite's portion, and of the city Jehovah Shammah ... and of the ground for food for them that minister in the city ... and of Prince Jesus his portion ... and of the bigness of the city New Jerusalem ... and all or most of the signs of Christ's coming explained [in] verse, with other mysteries, by the aforesaid [sic] author.</title>
+            <author>Rannew, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 113 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92160</idno>
+            <idno type="STC">Wing R248A</idno>
+            <idno type="STC">ESTC R42752</idno>
+            <idno type="EEBO-CITATION">38875705</idno>
+            <idno type="OCLC">ocm 38875705</idno>
+            <idno type="VID">152337</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92160)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152337)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2293:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>In this book is the figure of the dividing the land of Israel among the tribes of Israel ... wherein is the figure of the bigness of the priest's portion, and temple therein, and of the Levite's portion, and of the city Jehovah Shammah ... and of the ground for food for them that minister in the city ... and of Prince Jesus his portion ... and of the bigness of the city New Jerusalem ... and all or most of the signs of Christ's coming explained [in] verse, with other mysteries, by the aforesaid [sic] author.</title>
+                  <author>Rannew, Thomas.</author>
+               </titleStmt>
+               <extent>[18] p., [2] leaves of plates (1 folded) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year 1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing (2nd ed.) to Thomas Rannew.</note>
+                  <note>Name added in ms. at end: Tho: Rannew.</note>
+                  <note>Imperfect: stained and tightly bound, with loss of text.</note>
+                  <note>Reproduction of original in: Lambeth Palace Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelation --  Criticism, interpretation, etc.</term>
+               <term>Apocalyptic literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152337:1" rendition="simple:additions"/>
+            <p>In this BOOK is the FIGURE OF THE Dividing the Land of ISRAEL AMONG The Tribes of ISRAEL, (That is, among thoſe that have the Faith of <hi>Iſrael</hi>) when their Captivity is returned; that is to ſay, after they are brought up out of their Graves, and that imployed Men have cleanſed the Land aforeſaid of all the dead Bones of all the Warriours of the World: Wherein is the Figure of the bigneſs of the <hi>Prieſt</hi>'s <hi>Portion,</hi> and <hi>Temple</hi> therein; And of the <hi>Levite</hi>'s <hi>Portion;</hi> And of the City <hi>Jehovah Shammah,</hi> wherein Chriſt and his Saints ſhall reign 1000 years; And of the Ground for food for them that miniſter in the City, which ſhall be choſen out of all the Tribes of <hi>Iſrael;</hi> meaſured out by the ſquare Root of 121; And of Prince <hi>Jeſus</hi> his <hi>Portion,</hi> that ſhall be in the Land of <hi>Iſrael;</hi> And of the bigneſs of the City <hi>New Jeruſalem,</hi> which cometh down from God out of Heaven when the 1000 years aforeſaid are ended; which is known by the ſquare Root of 120, as may be ſeen in the ſquare Figure of 10000 Furlongs alſo herein included. And all or moſt of the Signs of <hi>Chriſt</hi>'s coming explained in <hi>Verſe;</hi> with other Myſteries, by the aforeſaid Author.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1688.
+<pb facs="tcp:152337:2" rendition="simple:additions"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:152337:2" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>map</figDesc>
+                  <head>The figure of the dividing of the land of Iſrael according to Ezekiels propheſie when the Captivity therof ſhall be returned</head>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152337:3"/>
+            <opener>
+               <salute>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>,</hi>
+               </salute>
+            </opener>
+            <figure>
+               <figDesc>city plan</figDesc>
+               <head>A Ground Platt of two Glorious-Cityes that ſhall be HEREAFTER</head>
+               <p>The one Jehovah Shammah according to Ezek. 48.35. and Revel. 20.9</p>
+               <p>The other New Jeruſalem according to Revel. 21.v2.9.10 &amp;c.</p>
+               <p>Note that the Great lynes in the Figure doe ſignifie the Gate-ſtreets; The other lynes which lead into the Gate-ſtreets are Leſſer ſtreets: And all the white places doe ſignifie buildings, Courts, &amp;c.</p>
+            </figure>
+            <figure>
+               <head>A SQUARE OF 10000 FURLONGS</head>
+            </figure>
+            <p>
+               <hi>O Daughter, take good heed, encline and give good ear, Thou muſt forget thy kindred all, and fathers houſe moſt den<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> And in the 16th. verſe of the Singing-Pſalms it alſo ſaith thus:</p>
+            <p>
+               <hi>Inſtead of Parents left, (O Queen thy chance ſo ſtands) Thou ſhalt have Sons whom thou maiſt ſet, as Princes in all I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> And they that think this <hi>Pſalm</hi> to be meant of Chriſt, and his Church, becauſe <hi>New Jeruſalem</hi> is called <hi>the Bride, Lamb's wife,</hi> Rev. 21.9, 10. I think, have but little diſcerning in this matter. For if Prince <hi>Jeſus</hi> give a gift of inheritance, <hi>Ezek.</hi> 45.7, 8. <hi>Pſ.</hi> 16.10. to any of his ſons, the inheritance thereof ſhall be his ſons, it ſhall be their poſſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by inheritance: But if he give a gift of his inheritance to one of his ſervants, then it ſhall be his to the year of libe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> after, it ſhall return to the Prince, but his inheritance ſhall be his ſons for them. Now this Prince, Expoſitors, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> modern and ancient, ſaith <hi>Greenhill</hi> in his Expoſition of <hi>Ezekiel,</hi> is <hi>Prince Jeſus,</hi> who is called <hi>King, and Prince, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 27.24, 25. <hi>one ſhepherd,</hi> verſ. 24. <hi>John</hi> 10.16. And the ſervants of this Prince, are members of the Bride, the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:152337:8"/>wife aforeſaid, for <hi>they are faithfull,</hi> Pſal. 101.6, 7. <hi>but not ſons,</hi> as aforeſaid. For theſe ſons which are to receive the Inheritance, propheſied by <hi>Ezekiel,</hi> chap. 46.16, 17, as aforeſaid; He was not to ſee, till he had made his Soul an offering for ſin. But the promiſe is, that when he had made his Soul an offering, <hi>&amp;c.</hi> then he ſhould ſee his ſeed, <hi>Iſai.</hi> 53.10 Seeing therefore that Chriſt, the Head of the Body, the Church, <hi>Col.</hi> 1.18. ſhall have a wife and children, it cannot be denied, but that the Body, his Members, ſhall have wives and children; and to this agree the words of the Prophets. <hi>Pſal.</hi> 128. <hi>Pſal.</hi> 1.3. <hi>Ezek.</hi> 27.25, 26. <hi>And that they ſhall have houſes, and lands,</hi> ſee <hi>Ezek.</hi> 45.1, 4, 5. chap. 48. <hi>Iſai.</hi> 54.1, 3. chap. 45.18. <hi>Jer.</hi> 31.38, 40. And then will be fulfilled Chriſt's promiſes which he made in his Sermon in the <hi>Mount,</hi> and no good thing wanting to thoſe that lead a godly life, <hi>Matth.</hi> 5.3, 8, 12. <hi>Pſal.</hi> 34.10. And the <hi>Jews</hi> ſhall have a Temple to worſhip God in; <hi>Into which, no ſtranger uncircumciſed in heart, nor un<g ref="char:EOLhyphen"/>circumciſed in fleſh, ſhall enter, of any ſtranger that is among the children of Iſrael, ſaith the Lord God. And the Levites that are gone away far from him, when Iſrael went aſtray after their Idols, they ſhall alſo bear their iniquity: yet they ſhall be Miniſters in the Temple, having charge at the gates of the houſe: They ſhall ſlay the burnt-offering, and the ſacrifice for the people. But the Prieſts the Levites, the Sons of Zadock, that kept the charge in God's ſanctuary, when the children of Iſrael went aſtray from him. They ſhall enter therein to offer unto God, the fat and the blood, ſaith the Lord God.</hi> Ezek. 44.9, 15. Now this that is written by <hi>Ezekiel,</hi> is not contradicted by <hi>Paul,</hi> 2 <hi>Cor.</hi> 3. For <hi>Paul</hi> doth not ſpeak there of the Law being done away, but of <hi>Moſes</hi> glory in the ſhining of his face being done away. And he there prefers the Goſpel miniſtred by him and <hi>Timothy</hi> to the Saints of <hi>Corinth,</hi> which was made known by them, (not with <hi>Ink in Tables of Stone,</hi> as the Ten Commandments were written, which <hi>Moſes</hi> was the Miniſtrator of) above the law, for that their Goſpel was written in the fleſhie tables of their hearts with the Spirit of the living God, they being inriched by him in all wiſdom, utterance and knowledge; even as the teſtimony of Chriſt was confirmed in them, <hi>Mark</hi> 16.15, 17, 18. So that they came behind other Churches in no gift, <hi>Acts</hi> 1.3. 1 <hi>Cor.</hi> 1.1, 2, 5, 7. Of the like import alſo is the 7th. Chapter of the <hi>Hebrews,</hi> which prefers the Prieſthood of <hi>Chriſt,</hi> before the Prieſthood of <hi>Aaron.</hi> Becauſe <hi>Chriſt</hi> was made a Prieſt with an Oath, but <hi>Aaron</hi> without an Oath. <hi>Chriſt,</hi> by reaſon of Eternal life, hath an un<g ref="char:EOLhyphen"/>changeable Prieſthood; but <hi>Aaron,</hi> by reaſon of death, had not. Therefore (as in the 12th. verſe) the Prieſthood of <hi>Chriſt</hi> being put above (the Greek word is <hi>Metatheſis</hi>) <hi>the Prieſthood of Aaron.</hi> There is made of neceſſity a pre<g ref="char:EOLhyphen"/>ferrence of the Law <hi>belonging to Chriſt's Prieſthood,</hi> the new Covenant ſpoken of, <hi>chap.</hi> 8.18. which is <hi>above the Law belonging to Aaron's Prieſthood?</hi> ver. 11. What ſhall I ſay more in confirmation of this Doctrine, Chriſt preached it up in his firſt Sermon in the <hi>Mount; Think not,</hi> ſaid he, <hi>I am come to deſtroy the Law, or the Prophets: I am not come to deſtroy, but to fulfill</hi> it by my doing and teaching. <hi>For I ſay unto you, Till heaven and earth paſs, one jot, or one tittle, ſhall in no-wiſe paſs from the law</hi> to be obſerved, <hi>for</hi> (the Greek word is <hi>an</hi>) <hi>all</hi> the Law <hi>ſhall be fulfilled. Whoſoever therefore ſhall break one of theſe leaſt Commandments,</hi> which the Law commandeth to be done, <hi>and ſhall teach men ſo, he ſhall be called the leaſt in the kingdom of heaven: but whoſoever ſhall doe and teach</hi> them leaſt Commandments, <hi>the ſame ſhall be called great in the kingdom of heaven. For I ſay unto you,</hi> ſaid he, <hi>That except your righteouſneſs ſhall exceed the righteouſneſs of the Scribes and Phariſees</hi> in teaching the Law, <hi>ye ſhall in no caſe enter into the kingdom of heaven. Ye have heard,</hi> ſaid he, <hi>that it was ſaid by them</hi> Scribes and Phariſees <hi>of old time, Thou ſhalt not kill: and whoſoever ſhall kill, ſhall be in danger of the judgment.</hi> There was all that they taught about killing. <hi>But I ſay unto you,</hi> ſaid Chriſt, <hi>That whoſoever is angry with his brother without a cauſe, ſhall be in danger of the judgment.</hi> Which is as much puniſhment as they taught for killing their brother without a cauſe. <hi>And whoſoever ſhall ſay unto his brother</hi> without a cauſe, <hi>Racha ſhall be in danger of the counſel: but whoſoever ſhall ſay, Thou fool, ſhall be in danger of Hell-fire. Therefore,</hi> ſaid he, <hi>if thou bring thy gift to the Altar,</hi> to be offered by the Prieſts, <hi>and there remembreſt that thy brother hath ought againſt thee: Leave there thy gift before the Altar, and go thy way: firſt be reconciled to thy brother, and then come and offer thy gift,</hi> Matth. 5.1.17.24 And in his Sermon in the Temple, probably his laſt Sermon that he preached there, <hi>He ſaid unto the multitude and his diſciples, The Scribes and Phariſees ſit in Moſes ſeat:</hi> All therefore whatſoever they bid you ob<g ref="char:EOLhyphen"/>ſerve of <hi>Moſes</hi>'s law, <hi>that obſerve and doe,</hi> Matth. 23.1, 2, 3. I think I have ſpoken enough of this matter at this time, I therefore will give an anſwer to them that would know the <hi>Signs</hi> when the times of the reſtitution of all things ſhall begin.</p>
+            <lg>
+               <l>IF you would know of me ſome Signs, when Jeſus Chriſt will come</l>
+               <l>To the valley of <hi>Joſaphat,</hi> and give to Men their doom.</l>
+               <l>When <hi>Sion</hi>'s City's built ſo large, as by me is ſet down;</l>
+               <l>And that the Lord therein doth dwell, which is her chief re<g ref="char:EOLhyphen"/>nown.</l>
+               <l>And that the Saints are divine born, doe eat and drink the beſt:</l>
+               <l>Adorn'd like Kings, doe judge the World: with Seed by wives are bleſt.</l>
+               <l>Then I'll you tell what I have read ſhall happen before then,</l>
+               <l>War, Plague, Famine, Fear, Pit, and Snare, ſhall thin the World of Men.</l>
+               <l>Heav'n powers doe ſhake, the Sun turns black, the Moon blood, and I find,</l>
+               <l>Heav'n Stars doe fall like Figs from trees, ſhak'd with a mighty Wind.</l>
+               <l>The Mountains melt, Mount <hi>Ol'vet</hi> cleaves to Eaſt, Weſt, North, and South,</l>
+               <l>Such as fight Chriſt are kill'd by the two-edg'd ſword of his Mouth.</l>
+            </lg>
+            <lg>
+               <l>Before thoſe glorious times begin, wherein the Saints alway</l>
+               <l>In holineſs without fear ſerve, their God both night and day.</l>
+            </lg>
+            <lg>
+               <l>The Mountains of <hi>Iſr'el</hi> yield fruit, and food doth grow upon</l>
+               <l>The hills, and dales, and valleys, and upon the Mount <hi>Sion.</hi>
+               </l>
+               <l>The Son of Strengths, with twelve times twelve thouſand chaſt ones appears,</l>
+               <l>Whoſe preſence in that Holy place, is gained by the tears</l>
+               <l>Of thoſe that weeping to <hi>Sion</hi> that Mount do ask the way,</l>
+               <l>And there a Cov'nant with the Lord do make to laſt for ay.</l>
+               <l>Theſe hundred forty four thouſand are men bought from the Earth,</l>
+               <l>In whoſe mouths there was found no guile, and therefore they go forth.</l>
+               <l>With the Lamb whereſoe'er he goes, and they have alſo right,</l>
+               <l>To be before God's Throne, and there to ſerve him day and night.</l>
+               <l>And many ſuch are then in Heav'n, when <hi>Rome</hi> ſhall be no more,</l>
+               <l>And Hallelujahs ſing to God for judging that great Whore.</l>
+               <l>Theſe firſt-fruit men are cloath'd with Robes long, pure, trim, white, and fine,</l>
+               <l>Procured by the bloud of God, and they as Stars do ſhine.</l>
+               <l>But lo, a Dragon great and red doth wait, Chriſt to devour;</l>
+               <l>But then the Son unto God's Throne is caught up that ſame hour.</l>
+               <l>And then in Heaven a fight is fought by <hi>Mich'el</hi> and his Men,</l>
+               <l>Who throw the Dragon down from thence, not to come there a<g ref="char:EOLhyphen"/>gen.</l>
+               <l>For neither Satan nor his Sp'rits are able to prevail,</l>
+               <l>'Gainſt <hi>Mich'el</hi> and his Angels bold, which make them for to quail.</l>
+               <pb facs="tcp:152337:9"/>
+               <l>The field they win by the Lambs blood, and by his Teſt'ment-word:</l>
+               <l>Which makes them careleſs of their lives, not fearing Satan's ſword.</l>
+               <l>When as that Satan ſees himſelf caſt down upon the Earth,</l>
+               <l>Then he againſt the <hi>Iſr'elites</hi> in malice marcheth forth.</l>
+               <l>But they from him doe flee as faſt, as Eagles with great wings;</l>
+               <l>Then he on the Sea-ſand doth ſtand, and thence a Sea-flood flings,</l>
+               <l>After them in their flight, that ſo he may cauſe them be drown'd,</l>
+               <l>But his intent prevented is by a gulf in the ground.</l>
+            </lg>
+            <lg>
+               <l>Before <hi>Jehovah Shammah</hi>'s built, where Chriſt and Chriſti<g ref="char:EOLhyphen"/>ans dwell,</l>
+               <l>A thouſand years 'fore <hi>New Salem</hi> comes down from Heav'n I tell.</l>
+               <l>A Nor-weſt King of <hi>Japhet</hi>'s line, doth march and conquer <hi>Babel,</hi>
+               </l>
+               <l>
+                  <hi>Roma, Paleſtine, Egypt,</hi> and rules <hi>Phut,</hi> and <hi>Cuſh</hi> the Sable.</l>
+               <l>
+                  <hi>Paras, Gomer, Meſheth, Tubal,</hi> the <hi>Togarmites,</hi> and <hi>Gaul,</hi>
+               </l>
+               <l>With all the Nations under Heav'n upon this mighty <hi>Ball.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Princes of <hi>Europe</hi> burn <hi>Rome,</hi> the laſt Pope he is ſlain,</l>
+               <l>Whoſe wondred at by the whole World, becauſe he lives again.</l>
+               <l>And ope<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his mouth in blaſphemies, and proves an angry rod,</l>
+               <l>To thoſe that will not worſhip him in that ſame houſe of God,</l>
+               <l>That placed at <hi>Jeruſalem</hi> is, the Holy City call'd,</l>
+               <l>For in a part of that ſame houſe, as God he is inſtall'd.</l>
+               <l>Where he doth ſit and vaunt himſelf, above all Gods to be:</l>
+               <l>And the falſe Prophet, fire and ſtars, makes t' come down from the Sky.</l>
+               <l>And other Miracles he doth, the Nations to deceive,</l>
+               <l>For he an Image makes to ſpeak, that they a mark receive,</l>
+               <l>In their right hand or elſe forehead, for therein doth he fix,</l>
+               <l>To be ſeen the print of his name, Six hundred ſixty ſix,</l>
+               <l>To honour him as God it is, that killed was with ſword,</l>
+               <l>And ſo fall from the God of Gods, and Chriſt his Son and Word;</l>
+               <l>If not, they kill'd muſt be with Sword, this is it that he ſaith,</l>
+               <l>And then it will be manifeſt, who patience hath and faith.</l>
+               <l>But whoſo takes the mark of him, that killed was with ſword,</l>
+               <l>Shall drink the wine of God's fierce wrath, this is God's Angel's word.</l>
+               <l>And from <hi>Gog</hi>'s mouth goes like a Frog, doth Wonders not the leaſt,</l>
+               <l>For he o'er dry'd <hi>Euphrates</hi> brings, the Kingdoms of the Eaſt,</l>
+               <l>Unto <hi>Jerus lem,</hi> not <hi>Rome,</hi> where <hi>Gog Magog</hi> will dwell,</l>
+               <l>For to the firſt, not to the laſt, that Flood's an obſtacle.</l>
+               <l>And there, in <hi>Mauzim</hi> he adores a ſtrange God, which his Sire,</l>
+               <l>Ne'er knew with gold and precious ſtones, provoking God to ire,</l>
+               <l>Whom he regards not, but Women he luſteth after much,</l>
+               <l>And to aſcend above the Stars, in heart his thoughts are ſuch.</l>
+               <l>And to change Times and Laws, his thoughts are fixed much upon,</l>
+               <l>And he hath power to doe ſo till three years and half be gone.</l>
+               <l>In all which time he makes to ceaſe the daily ſacrifice,</l>
+               <l>And heads an Hoaſt 'gainſt Jeſus Chriſt, when he comes from the Skies.</l>
+               <l>O Lion rais'd from thy dark houſe, which haſt the ſnorting horſe,</l>
+               <l>To ſtand againſt the chiefeſt Prince, this is not thy beſt courſe;</l>
+               <l>For he with ſix Plagues will the ſtrike, Blood, Peſtilence, and Fire,</l>
+               <l>Brimſtone, Hailſtones, and great Flood-rain, as tokens of his ire.</l>
+               <l>Then dead Kings from the Earth ſhall ſpeak this Speech to thee in ſcorn,</l>
+               <l>How art thou fall'n, O <hi>Lucifer,</hi> from Heav'n, thou Son of Morn?</l>
+               <l>Lo thus the fierce-look'd Man that was ſo prudent, mighty, and,</l>
+               <l>Would fight againſt the King of Kings, is broken without hand.</l>
+               <l>After that he was grown great, in twenty three hundred days,</l>
+               <l>Was beaten by the Cedar-branch, and ſo has loſt the Bays.</l>
+               <l>For he an Army hath that throw ſtones with a Sling full well,</l>
+               <l>The Sword can't hurt them, and they are called, choſen, faithfull.</l>
+               <l>And then the Lord an <hi>Egypt</hi>-flood doth make there with broad ſtreams,</l>
+               <l>Wherein no Galley goes with Oars, nor Ship ſails in thoſe Leams.</l>
+               <l>And then a whirlwind, with great rain, and hailſtones fly ſo fa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>The tacklings are looſed, that they cannot ſtrengthen the Maſt.</l>
+               <l>There's an end of the Ships of <hi>Chetham,</hi> that afflict <hi>Aſhur</hi> and that afflict <hi>Eber,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Two Prophets two and forty months oppoſe the Man of ſin,</l>
+               <l>Who is the eighth, and of the ſeventh ſort, chiefeſt ruler in</l>
+               <l>The City <hi>Rome,</hi> 'fore it is burnt, and wept over by Kings,</l>
+               <l>Saying alas, when Heav'n is glad, and Hallelujah ſings.</l>
+               <l>In Cuds they preach, where Chriſt our Lord Jeſus was crucify'd;</l>
+               <l>And their words true believ'd by few, by ſigns are juſtify'd:</l>
+               <l>For if that any man will hurt them in their Prophecy,</l>
+               <l>By fire that comes out of their mouth, thereof they're ſure to dye</l>
+               <l>And they have pow'r to hinder rain twelve hundred ſixty days</l>
+               <l>And to turn waters into blood if the World won't God praiſe</l>
+               <l>And they alſo the Earth can ſmite with Plagues both great an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſmall,</l>
+               <l>Whilſt that <hi>Euphrate</hi>'s Angels fight with head and tail and all.</l>
+               <l>By their Horſes, whoſe heads are like the heads of Lions fierce,</l>
+               <l>Out of whoſe mouths go fire and ſmoak, and brimſtone that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pierce</l>
+               <l>Thoſe men that have not God's ſeal in their foreheads, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that will</l>
+               <l>Perſiſt in thefts and ſorceries, and the Saints ſeek to kill.</l>
+               <l>An hour, a day, a month, a year, theſe Angels pow'r doth laſt,</l>
+               <l>And they the third part of bad men into death's lap doe caſt.</l>
+               <l>And five months pow'r 'fore this is giv'n to Locuſts for to ſting</l>
+               <l>Such wicked men with grievous pains, but not to death th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> bring,</l>
+               <l>After the third part of the Sun is ſmit, and eke the Moon,</l>
+               <l>And eke the Stars, that one third part of all their light is g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</l>
+               <l>Which Plague ſucceeds the Wormwood-drink, that killeth ma<g ref="char:EOLhyphen"/>ny men,</l>
+               <l>And the burnt Mountain caſt i'th' Sea, precedeth that Pl<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> then</l>
+               <l>The third part of the Sea proves blood, that one in three doe dy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>As well in Ships, as thoſe that in the bottom thereof lye.</l>
+               <l>And before this fire Hail and Blood are caſt upon the Earth,</l>
+               <l>Which burn the third of trees and graſs, and ſo begins a dunk</l>
+               <l>Which doth encreaſe to ſuch a price, I think I reckon well;</l>
+               <l>Barly is for a Noble ſold, Wheat one pound a Buſhel;</l>
+               <l>And Oyl proves ſcarce, and Wine proves ſcant, God's <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> none can controul;</l>
+               <l>Becauſe the Drunkard can't get Wine, he then begins to b<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</l>
+            </lg>
+            <lg>
+               <l>When theſe Prophets have ſaid and done what they ought ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and doe:</l>
+               <l>Then he that was 'live, dead, and lives, doth kill them like foe.</l>
+               <l>And they dead are not put in Graves, that all men may th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſee;</l>
+               <l>Who'f late were ſad, but then are glad, 'cauſe from them th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> are free.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>John</hi> then and there doth propheſie 'fore Nations, Kings, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> People,</l>
+               <l>In the Quire which his Reed laid out, and Pope-Gods 's in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Steeple.</l>
+               <l>For he that ſaid what if I will, he tarry till I come,</l>
+               <l>Will make it known he ſtill doth live, and 'tis believ'd by ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>For <hi>Heylin</hi> his <hi>Geography</hi> doth to this purpoſe ſay,</l>
+               <l>
+                  <hi>John</hi> went alive into his Grave, and there himſelf did lay.</l>
+               <l>As Page five hundred thirty ſev'nth doth witneſs, where <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſed</l>
+               <l>Some learned Men doe think he ſleeps, and that he is not d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>Now of the ſev'n laſt Plagues I tell, that are to Angels g<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>By one of the four Seraphims, chief Miniſters in heav'n;</l>
+               <l>Whoſe office it is night and day the ſervice to begin,</l>
+               <l>In the Temple of that faſhion <hi>Moſes</hi> Temple was in.</l>
+               <l>With a great Veſſel made of Glaſs, and other things I count,</l>
+               <l>Which <hi>Moſes</hi> ſaw when he with God was on the bur<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Mount.</l>
+               <pb facs="tcp:152337:9"/>
+               <l>But whilſt the Angels take the Plagues, the ſtrength of them is ſo,</l>
+               <l>In the Temple where they are giv'n, no Man can therein go.</l>
+               <l>Then <hi>Moſes,</hi> and Chriſt Jeſus ſing, and many more accord,</l>
+               <l>Thou onely art holy, O God, who fears not thee, O Lord.</l>
+               <l>For then God with a great voice bids the ſev'n Angels go forth,</l>
+               <l>And pour the Vials of the wrath of God upon the Earth.</l>
+               <l>The firſt comes then, and a noyſome and grievous Sore doth fall</l>
+               <l>Upon the Men that on the Man of Sin, as God doe call.</l>
+               <l>The ſecond Vial makes the Sea as dead Man's blood to be,</l>
+               <l>Then ev'ry living Soul doth dye that is in the great Sea.</l>
+               <l>The third Angel's Vial doth make waters to drink not good,</l>
+               <l>For in the Fountains and Rivers, they're turned into Blood.</l>
+               <l>The fourth Angel's Vial doth make the Sun ſcorch Men with fire,</l>
+               <l>Yet they blaſpheme the Name of God, and from Sin don't retire.</l>
+               <l>The fifth Angel's Vial doth make the Pope-God's Kingdom dark;</l>
+               <l>And pain doth make them gnaw their tongues, yet they good<g ref="char:EOLhyphen"/>will not work.</l>
+               <l>The ſixth Angel's Vial doth make <hi>Euphrate</hi>'s River dry,</l>
+               <l>That the Eaſt Kings in <hi>Mageddon</hi> may be there inſtantly.</l>
+               <l>The ſeventh Angel's Vial doth make a great Earthquake and Hail,</l>
+               <l>That Cities fall, and Talent ſtones hit men, yet they doe rail.</l>
+            </lg>
+            <lg>
+               <l>But before this, The <hi>Iſr'elites</hi> and <hi>Jews</hi> ſhall ask the way</l>
+               <l>To <hi>Paleſtine</hi> and <hi>Sion</hi> Hill, and be found there that day.</l>
+               <l>When <hi>Magog</hi>'s force, more ſwift than horſe, ſhall make that Land to tremble,</l>
+               <l>And ſome to run, for fear o'Gun, and i'th' deſart aſſemble.</l>
+               <l>For <hi>Magog</hi> grows exceeding great, as I doe underſtand,</l>
+               <l>Toward the South, and to the Eaſt, and to the pleaſant Land.</l>
+            </lg>
+            <lg>
+               <l>And when ſix thouſand years are come ſince God the World did build;</l>
+               <l>That the great Sabbath is begun, my Signs are all fulfill'd.</l>
+            </lg>
+            <p>Which Verſes I mean in the plain literal ſence. And although <hi>Aſtronomers</hi> declare in their Books that one Star is bigger than all the Globe of Earth and Water, yet I believe them not. For, that <hi>John</hi> in his Revelation ſpeaking of things that muſt be hereafter, <hi>Rev.</hi> 4.1. which he ſaw in a Viſion in Heaven, when he was called up thither to that purpoſe, ſaith thus, <hi>That lo there was a great Earthquake, and the Sun became black as ſackcloth of hair, and the Moon became as blood, and the Stars of heaven fell unto the Earth, even as a Fig-tree caſteth her green Figs, when ſhe is ſhaken of a mighty wind. And the heaven departed as a ſcroll when it is rolled together, and every Mountain and Iſland were moved out of their places. And the Kings of the earth, and the great Men, and the chief Captains, and the mighty Men, and every bondman, and every freeman hid themſelves in the dens and rocks of the mountains; And ſaid to the mountains and rocks, Fall on us, and hide us from the face of him that ſitteth on the throne, and from the wrath of the Lamb: For the great day of his wrath is come, and who ſhall be able to ſtand?</hi> Rev. 4.1, 2, 3. <hi>chap.</hi> 5.1, 6, 8. <hi>chap.</hi> 6.12, 17. which Scriptures in the plain literal ſence plainly confute that opinion. And here I challenge any <hi>Aſtronomer</hi> whatſoever to render any other meaning hereof (if he can) than the plain literal meaning. But if he be not able, then let him believe what is therein written in the book that God gave to the Lamb, <hi>chap.</hi> 5.1, 7. <hi>chap.</hi> 6.12, 17. which agrees with Chriſt's words, <hi>Matth.</hi> 24.29, 30. <hi>Luke</hi> 21.25, 27. and with <hi>Iſai.</hi> 13.10, 11. and <hi>Joel</hi> 2.31. And if ſo many Stars fall to the earth, as there fall green figs to the earth from a fig tree when ſhe is ſhaken with a mighty wind, then multitudes of Stars will fall to the earth; and probably ſome of them which are of the firſt magnitude. For accor<g ref="char:EOLhyphen"/>ding to <hi>Bagwell,</hi> in his <hi>Myſtery of Aſtronomy,</hi> which is highly praiſed by <hi>John Booker</hi> and five others, he tells us that a Star of the firſt or greateſt magnitude, of which there are 15, that every one of them is 107 times bigger than all the Earth. Of the next degree 46, each of them 87 times bigger than all the Earth. Of the third ſort 208, every one of them 22 times bigger, <hi>&amp;c.</hi> Of the fourth ſort 280, 54 times bigger, <hi>&amp;c.</hi> Of the next degree 221, 36 times bigger, <hi>&amp;c.</hi> And of the leaſt ſort 55, which are ſet down to be every one of them 88 (I ſuppoſe he meant 8) times bigger than all the Earth. <hi>John Seller</hi> in his <hi>Atlas Coeleſtis,</hi> of the 6 degrees aforeſaid ſaith thus of them, According to <hi>Ptolomy</hi>'s computation, they amount to 1022. <hi>Pliny</hi> he ſaith, reckons them 1600, and the abſolute number of all the Stars to be innumerable, at leaſt by humane calculation. And according to <hi>Tycho,</hi> and <hi>Boyer,</hi> a Star of the firſt magnitude is (compared to the Earth) as 68 to 1. That is, 68 times bigger than the Earth. A Star of the ſecond magnitude, is as 28½ to 1. The third ſort for greatneſs, as 11 to 1. The fourth as 41 to 1. I ſuppoſe he meant as 4 to 1. The fifth as 1/18 to 1. And the ſixth as ⅓ to 1. That is, three times bigger than the Earth. See I pray how they differ. <hi>Bagwell</hi> aforeſaid ſaith thus alſo, that ſome other of the ordinary Stars are much bigger than the whole compaſs of the Earth, and that the leaſt of all the Stars in that heaven, are bigger than the Moon. Believe him who will, but I will not. For I read in the Scripture of Truth, that <hi>God ſaid let there be Lights in the firmament of heaven to give light upon the earth: and it was ſo. God then made two great Lights, the greater light to rule the day, and the leſſer light to rule the night: he</hi> made <hi>alſo the ſtars, and ſet them in the firmament of heaven,</hi> Gen. 1.14, 15, 16, 17. Which foreſaid Scripture enlightneth my underſtanding to believe that the Sun or Moon are bigger than any of the Stars. And if there be ſuch a number of Stars, and that they be ſo many Worlds as Cardinal <hi>Cuſanus,</hi> and <hi>Jornan<g ref="char:EOLhyphen"/>dus Brunus</hi> affirm (This is ſet down in the Book (ſaid to be made by Biſhop <hi>Wilkins,</hi> to prove that 'tis probable, there may be another habitable World in the Moon) they will ſo cover the Earth, that the Kings of the Earth, <hi>&amp;c.</hi> ſha'l not need to ſay to the Rocks and Mountains, <hi>Fall on us, and hide us from the face of him that ſitteth upon the Throne.</hi> When they are then hidden with ſo many Worlds, probably ſome of them 107 times bigger than all the Earth. And if their ſayings be true, it will be impoſſible for the Kings of the Earth and their Armies to make war againſt Chriſt and his Armies, which they will doe; as God's word declares. <hi>Rev.</hi> 19.9, 11, 19. And concerning the Sun's big<g ref="char:EOLhyphen"/>neſs, it is ſo great, as a great <hi>Aſtronomer</hi> told me at <hi>Greenwich,</hi> that it is impoſſible, if his words be true, that the Moon ſhould ſhadow all the Sun from all the Earth at one time, as <hi>Tycho</hi> affirms it cannot doe; but he is therein contradicted by the ſuppoſed Biſhop aforeſaid, who ſaith, That the Diameter of the Moon, for the moſt part, appears to be bigger than the Sun's; and alſo ſaith, That <hi>Tycho</hi> is therein ſingular, being oppoſed by <hi>Keplar,</hi> and all other <hi>Aſtronomers;</hi> I ſay it is impoſſible that ſhe ſhould totally eclipſe the Sun, if ſhe be leſs than the Earth 45 times, as <hi>Atlas Coeleſtis</hi> ſaith ſhe is, and that the Sun is many Millions bigger than the Earth, as the <hi>Aſtronomer</hi> aforeſaid ſaith he is.</p>
+            <p>And now Countryman, what doeſt thou think of this bigneſs? The <hi>Aſtronomers</hi> laugh at thee for thinking that the Sun is no bigger about than thy Cart-wheel: I will tell thee what I think; and that is, That it is not ſo much about as the Nave of the Wheel. But they tell us, that his diſtance proves him to be vaſtly bigger than the Earth: Why ſo, Countreyman? there's no reaſon for them to ſay ſo; for Lights appear biggeſt when they are far<g ref="char:EOLhyphen"/>theſt off. I remember that the Fields men in <hi>Dullingham</hi> Field thought that they had ſeen a Scare-fire, that is, an Houſe in flames of fire, when it was nothing elſe but a Candle ſhone through the glaſs upon the top of the Lord <hi>Gor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi>'s Chamber in <hi>Stechworth,</hi> a mile or two off. And thou mayeſt take notice, that the Sun ſhows bigger when he
+<pb facs="tcp:152337:10"/>riſes and ſets, than at noon time of the day, when he is at the higheſt and nigheſt to us. And thou mayeſt take <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Hat, and prove this plainly. Suppoſe the hole of thy Hat wherein thou putteſt thy head, doth ſignifie the round Earth. If thou meaſureſt from the place right againſt the knot of thy Hatband, to that part of the verge of the Hat that is nigheſt the knot, that part of verge is nearer the knot than the other part of the verge is that is fartheſt of from the knot: As for example; Suppoſe the hole in thy Hat be 8 Inches over, and the verge of thy Hat be 4. If thou meaſureſt from the knot aforeſaid, to that part of the brim that is nigheſt to it, it is but 4 Inches: but if thou meaſureſt to the fartheſt part of the brim, it is 12. Now ſuppoſe the Earth to be round like a ball, as it is, if the Waters be meaſured with it, and that it is about 8 thouſand Engliſh miles thick, as I ſhall afterwards demonſtrate it is, if I have occaſion to write again of this ſubject. The Sun muſt needs be 8 thouſand miles farther off from thee when he is right under thy feet, than when he is right over thy head, as he doth ſo move in 12 hours time to thoſe that live under the equinoctial line, and the Sun muſt needs be 4000 miles nearer at high noon-day when he is right over thy head, if he be but 10 miles off then, than when he is at riſing or ſetting; And although there is not 4000 miles difference to us that live in 52 latitude, yet there is about 2000 miles difference. Now I ſpeak of the Sun's be<g ref="char:EOLhyphen"/>ing about 10 miles diſtant from the neareſt place of the Earth to thoſe; becauſe I read in the Scriptures of Truth, That <hi>the whole Earth was of one language, even of one ſpeech. And it came to paſs, as they journied in the</hi> Eaſt Countrey, <hi>that they found a Plain in the land of Shinar</hi> (I remember that I have read of a <hi>Caliph</hi> of <hi>Babylon</hi> that drew a mighty great circle upon the Plain of <hi>Shinar,</hi> I cannot now ſpare time to look in my books to find it, that I may tell you the bigneſs thereof, becauſe the Printer muſt have that I now write to day, and I muſt make all the haſt I can to go into the Countrey a while to mind my husbandry there. Therefore bear with me a little, if the things I write now be not well digeſted) <hi>and they dwelt there. And they ſaid one to another, Go too, let us make brick, and burn the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thorowly. And they had brick for ſtone, and ſlime had they for mortar. And they ſaid, Go too, let us build us a City and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Tower, whoſe top may</hi> reach <hi>unto heaven, and let us ſolemnize us a name before we be divided abroad upon the face of the whole earth. And the Lord came down to ſee the City and the Tower, which the children of men builded. And the Lord ſaid Behold, the people is one, and they</hi> have <hi>all one language, and have begun to doe this</hi> that they intended, <hi>neither will they deſiſt from their advice, for they will compleat thoſe things</hi> they ſpake of <hi>in the work.</hi> Gen. 11.1, 3, 7. if I hinder them not. <hi>Therefore the Lord did there confound their Language, and the name of the City</hi> therefore <hi>was called Babel,</hi> that is, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> words at length, <hi>Babylon,</hi> i. e. <hi>confuſion.</hi> ver. 9. And now <hi>Aſtronomer,</hi> or whoſoever thou beeſt, that thinkeſt Heaven o<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> their heads is above 10 miles from the Plain of <hi>Shinar,</hi> ſhow me any other meaning of this Scripture, if thou canſt? <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not, I pray thee, the word of God be to thee (as it was to them whoſe wiſdom God threatned to deſtroy) like a book that is ſealed, which men deliver to one that is learned, ſaying, <hi>Read this I pray thee: And he ſaith, I cannot, for it is ſealed.</hi> Iſai. 29.11. Take pains I pray, and open the ſeal, and mind more what it ſaith, than what the <hi>Coperni<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> ſay: For they would make thee believe that the World that thou liveſt upon, turns round 21600 miles in 24 hours and though thou ſhooteſt an Arrow upright, that will not leave thee, for that the Air that is about the Earth is a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tracted to thee, (I wonder how we come to have the Winds blow this way and that way then, ſeeing they allow<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> no Coops (for Orbs they will not allow the <hi>Ptolomeans</hi>) to coop the Air to the Earth;) yea, they will make th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> believe, if thou wilt part with thy wits, that though thou beeſt 47 degrees from a Star that is in the North or So<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> part of the Heavens, which are round, farther off at one time than they are at another; yet that Star is not elev<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to the ſight by thy approach towards it, becauſe of the vaſt diſtance, as they tell thee, that is between thee and th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Star. For that though thou beeſt whirled upon the poles of the ecliptick from North to South, and ſo from So<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to North 31560207 miles round about the Sun, as <hi>Atlas Coeleſtis</hi> ſaith that the circuit of her Sphere is; yet that<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not conſiderable, by reaſon of the vaſt diſtance of them Stars from the Earth, which as <hi>Atlas Coeleſtis</hi> aforeſaid <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thee is 142746428 Semidiameters of the Earth, and therefore the circumference of that Sphere is 3589053046<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> miles. And ſo will they ſet thy wits at a diſtance from thee. But that they may not be believed, I will ſpeak the diſtance that is betwixt them. <hi>Bagwell</hi> aforeſaid ſaith, that the diſtance of the Sun from us is 4169955 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and ⅔. Thou ſeeſt he lays it down to ⅓ of a mile, as if he had meaſured it with a mete pole. And he ſaith <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that it is 166 times bigger than the Earth. The <hi>Aſtronomer</hi> aforeſaid ſaid many millions, that is (at leaſt) thirty hun<g ref="char:EOLhyphen"/>dred thouſand times bigger than all the Earth; and the other ſaid 133 times. I'll tell you of a bigger wonder <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this, if their words be true; I have it in <hi>Atlas Coeleſtis,</hi> in the 5th. Table, ſhewing the true magnitude of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Stars, that is, of one of the greateſt, and one of the leaſt, <hi>viz. Sirius,</hi> and <hi>Alcor,</hi> ſuppoſing the apparent Dia<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>Sirius</hi> to be 18″ of <hi>Alcor</hi> 4″, according to the diſtance in the <hi>Copernican Hypotheſis,</hi> maintaing the Parallax <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by the Earth's motion not to exceed 10″, and imagining the Diameter of the Annual Orb to be ſuch as upon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Principles it is ſtated to be, according to <hi>Keplar.</hi> The Diameter of <hi>Sirius</hi> contains Diameters of the Earth 12<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Lo! hath he not out done the <hi>Aſtronomer</hi> of <hi>Greenwich?</hi> For <hi>Keplar,</hi> whom Biſhop <hi>Wilkins</hi> admired for his Sk<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Aſtronomy,</hi> tells us, that <hi>Sirius</hi> his Diameter contains the Earth 12550 times; That is, the breadth of that round <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is one hundred millions and four hundred thouſands of miles. For 12550, multiplied by 8000, the Diameter of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Earth produceth 100400000 aforeſaid, and the circumference thereof is 315542857 miles. So that to go round a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it at 20 miles the day, 'twill take 43225 years. And the diſtance of <hi>Sirius</hi> aforeſaid is 142 millions 746 thouſand <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Semidiameters of Earth, which is 570985712000 miles. What reaſon is there to believe any of them, by r<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of the diſtance between them? It is, ſaith <hi>Bagwell,</hi> from the Earth to the Sun 4169955 miles, as aforeſaid. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>las Coeleſtis</hi> ſaith 5021896 miles; but <hi>Atlas Coeleſtis</hi> nor <hi>Bagwell</hi> doe prove that the Sun is 4169955 miles from Earth that I can find in their books, <hi>Bagwell</hi> tells us therein, that the Diameter of the Earth is 6872 miles, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that I allow; and he ſaith, ſhe caſteth a ſhadow 74602 miles: That I allow not; and he tells us moreover, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> above or beyond that ſhadow, there can be no darkneſs, but a continual light round about the World: If it be<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> then the Earth cannot cauſe darkneſs to the Moon, as he ſaith it doth, becauſe the Moon is diſtant from the E<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> as he ſaith in his book 160426 miles, and ſo out of the power of her ſhadow. I doe not ſpeak this as if I tho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that the Earth being between the Moon and the Sun, is not the cauſe of her eclipſe or darkneſs, but to ſhow th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that the <hi>Aſtronomers</hi> ſay is not Goſpel. But how doth he prove that the Earth doth caſt a ſhadow 74 02 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Theſe Rules following, ſaith he, will give ſatisfaction. 1. Note, ſaith he, that the diſtance of the Sun fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Earth is 4169955 miles. 2. The Diameter of the Earth is 6872 miles 3. The Sun's diſtance I divide by Earth's Diameter, and find the Quotient to be 614: and ſo many times the Diameter of the Earth reaches up <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sun. 4. I proportion by the compaſs the Diameter of the Earth, in a figure the length of a Barley corn (or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> part of an Inch:) which being divided by 3, makes 204 Inches; and that being divided by 12, comes to 17<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 5. I chuſe a plain level juſt of that length, namely 17 Foot; upon which, at one end, I place the figure <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Earth; and at the other end thereof, I ſet a light in proportion to the Sun. 6. The ſame light being at th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:152337:10" rendition="simple:additions"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from the figure of the Earth, makes the ſhadow thereof to be 11 times the length of the ſaid Diameter. 7. I multiply the ſaid Diameter, which is (as aboveſaid) 6782 miles, by 11, and that produceth 74602 miles; which is the length of the ſaid ſhadow, and may well cauſe ſo great a darkneſs as night it ſelf to our ſight, notwith<g ref="char:EOLhyphen"/>ſtanding the greatneſs and glorious light of the Sun, as he ſaith. To this I reply, That if a plain level be choſen of 17 Foot, upon which, at one end, be placed the figure of the Earth inflamed almoſt round about, as the Moon is, (as a round ball will be that is hung over a brisk fire) as we may perceive it is at all times, eſpecially when ſhe is in the full. I ſay then, That that round figure caſteth not a ſhadow 11 times the length of the Diameter of the fi<g ref="char:EOLhyphen"/>gure, but onely according to the Diameter of the figure not inflamed. And from hence I argue, that if the Moon were as far from the Earth as the Stars are, ſuppoſe 10, 20, 50, or 100 miles, ſhe would not be darkened or eclipſed by the Earth at all; but it may be that her diſtance is but ⅔, or ¾ from the Earth, of their diſtance. If I be asked why I reckon it, or rather gueſs it to be but 10, 20, 50, or 100 miles from the Earth to the Stars, which <hi>Bagwell</hi> afore<g ref="char:EOLhyphen"/>ſaid ſaith is ſo far diſtant, that it is 116000000 of miles. And, if it were poſſible, he ſaith, that a Stone ſhould be let fall from thence, of that bigneſs and weight, as it ſhould be continually a falling 150 miles an hour, untill it ſhould fall to the Earth, it would be 88 years, 3 months, 2 weeks, 4 days, 5 hours, and 20 minutes, falling down from thence to the Earth. <hi>Tycho Brahe</hi> ſaith, that to the ſtarry Firmament is 14000 Semidiameters of the Earth, which is 56000000 miles, or thereabout, which is but half the diſtance. <hi>Albategnius</hi> ſaith 19000 Semidiameters; <hi>Keplar</hi> a <hi>Coper<g ref="char:EOLhyphen"/>nican</hi> 142746428 Semidiameters of the Earth, which is about 570985712000 miles, which is no leſs than 10196 times bigger than <hi>Tycho Brahe</hi> reckons it to be: There's a ſwinging Sum, Ten thouſand one hundred ninety ſix times bigger than <hi>Tycho Brahe</hi> declares! <hi>Thomas Hill</hi> in his book of the Sphere, ſaith, That the Earth compared unto Heaven, is as a point: yea, ſo little in compariſon, he ſaith, as a Pepper-corn unto a Circle of a thouſand paces compaſs. For if the Earth, ſaith he, were of any ſenſible greatneſs, a man ſhould not ſee the half of Heaven. And how greater the Earth ſhould be, by ſo much the leſſer ſhould a man ſee the half of Heaven. I allow of what he ſaith, if the ſight of our eye did not fly, as it doth, in a bowed line; but it doth, for that ſome years ago the Moon did riſe totally eclipſed, when the Sun and Moon were both above the Horizon, and that the Moon began to recover her light at the lower part of her, being next our Horizon, and therefore under the Earth: And this was ſeen by my ſelf, <hi>William Gorham</hi> of <hi>Cambridge,</hi> and <hi>J. Hands,</hi> (that made the book called <hi>Aſtronomia Chriſtallina,</hi> who ſuppoſed the Earth to be the Center of the World, and that it turned round about upon its own Axis every 24 hours, and by that means he ſuppoſed the ſtarry Sky to be immoveable, and that the Planets did move from Weſt to Eaſt upon the Poles of the Ecliptick; an opinion to me more probable than that of <hi>Copernicus,</hi> for by this opinion every 69 miles nearer the Pole raiſeth a degree) which could not have been ſeen by us, if our ſight had run to them in a ſtrait line. And that which is to be ſeen at <hi>Greenwich</hi> Stairs puts the matter quite out of diſpute concerning the ſight of the eye: For if you ſtand upon the Gar<g ref="char:EOLhyphen"/>den-ſtairs, when the Tide is down, at a low water, and look over the River, you cannot ſee the Cattel feeding in the Marſh, by reaſon that the bank of the River intercepts your ſight; neither can you ſee the houſe wherein the Ferry<g ref="char:EOLhyphen"/>man lives, nor the top of the Chimney when the Tide is down, as aforeſaid: But when the Tide is up, then you may ſee the chimney, and the houſe, and the dore of the houſe, which commonly ſtands open, and the ground upon which men walk when they go into the houſe, and the cattel feeding, yea a Dog may be ſeen then in the Marſh (if there be one) by them that ſtand upon the Stairs aforeſaid, as I was told in the Boat by one of them that brought me from thence, when I had been there to make an obſervation concerning what was told me of this matter. Neither could Satan have ſhown <hi>Jeſus</hi> upon an exceeding high Mountain, (he was too ſubtile to undertake to ſhow the ſight of them in a valley) all the Kingdoms of the World, and the glory of them, which he did doe, <hi>Matth.</hi> 4.8. if Chriſt's ſight did not then fly to thoſe places in a bowed line. For probably the Mountain whereon he was ſet, was <hi>Mount Nebo,</hi> not far from the place where he was baptized, as others think. See for this <hi>Fuller</hi>'s <hi>Piſgah Sight</hi> of <hi>Paleſtine,</hi> and that is not (nor any Mountain in <hi>Paleſtine</hi>) one mile high; and if he was ſhown all the Kingdoms aforeſaid there in a ſtrait line from his eye, it requires a higher Mountain to ſtand upon, than is needfull to doe it upon a Mountain that is mid<g ref="char:EOLhyphen"/>way of the Kingdoms aforeſaid. Now the length of the Kingdoms aforeſaid in that day, was from the <hi>Eaſt-Indian</hi> Ocean to the Weſt of <hi>Spain.</hi> 1 <hi>Maccabees</hi> 1.3. chap. 8.1, 3, 4. <hi>Dan.</hi> 2.39, 40. chap. 7.23. which is 103 degrees at 69 miles to a degree, according to the part of the circle that is made upon the 10000 ſquare Furlongs. And to ſee from thence to them two places aforeſaid, the Mountain muſt be 2153 miles high, as may be ſeen in that Figure, or elſe he muſt look 430 miles under the Earth, according to that Figure. And thus is <hi>Hills</hi>'s Argument aforeſaid anſwered, or any Argument againſt my drawing the Circle of the Earth ſo big, and the Moon, Sun, and Stars ſo near it. I therefore conceive it is better to heed holy Scriptures, than to hearken to what they ſay: Now the Scriptures of Truth tell us, <hi>That God made all the Stars, Sun, and Moon, in one day.</hi> Gen. 1.14, 19. Whereas in making the Earth and Waters, with their appurtenances, he wrought part of the firſt day, all the third day, all the fifth day, and all the ſixth day; as may be ſeen in that chapter. I conclude therefore, that they are not ſo many Worlds as Cardinal <hi>Cuſanus</hi> and <hi>Jornandus</hi> did hold. And concerning them Lights aforeſaid, <hi>Judg.</hi> 5.20. ſaith, <hi>That the Stars in their runnings fought againſt Siſera.</hi> And if they did run, they did not ſtand ſtill, as the <hi>Copernicans</hi> affirm. <hi>Joſhua</hi> knew that the Sun was in his race, and the Moon in her walkings, or elſe he would never have commanded them to ſtand ſtill. <hi>Joſh.</hi> 10.12. So that that day was as long as two, <hi>Eccleſ.</hi> 46.4. <hi>Hezekiah</hi> did believe that the Sun did move forward, and that he could go backward, ac<g ref="char:EOLhyphen"/>cording to the word of the Lord, <hi>Iſa.</hi> 38.8 I therefore conclude that they doe move the fixed Stars in Heaven, (which probably is one of the three Heavens, 2 <hi>Cor.</hi> 12.2.) run round about the Earth 366¼ times in one year, the Sun 365¼ (little more or leſs) either of them. <hi>Saturn, Jupiter, Mars, Venus,</hi> and <hi>Mercury,</hi> according to the law that God hath given them, <hi>Pſal.</hi> 148.6. <hi>Luna</hi> half ſo many times as there be Tides in a year; All of them, except the fixed Stars, move one while toward the North, and another while towards the South, ſometimes nearer, and ſometimes farther from us, as it were in a ſcrew line, not compelled with Strings, as the Ancients did think, or with Wheels, or ſome ſuch device to make Epicycles and Eccentricks, nor turned about by Angels, as others immagine, but as Fiſhes move in the waters, as I have read ſome ſuppoſe. The <hi>Jews</hi> did probably think that they were living creatures, becauſe they burnt incenſe to them. And <hi>Rev.</hi> 9.1, 2. tells us of a Star's ſliding down to the Earth with the key of the bottom<g ref="char:EOLhyphen"/>leſs pit, which he opened; and that doth ſtrengthen my judgment that they are ſo. I did intend to have made Obſerva<g ref="char:EOLhyphen"/>tions concerning the Figures of <hi>Copernicus, Tycho,</hi> and <hi>Ptolomy,</hi> ſhowing the difference of theſe <hi>Aſtronomers</hi> poſitions of the Planets, and how that <hi>RANNEW</hi>'s Figure is to be preferred before them: but I have not now time and Paper. But I will ſay thus much, That I bear no ill-will to any man's perſon, but I am troubled to ſee mens Writings make the Word of God of none effect in theſe matters, and ſo hinder mens believing the Scriptures in other things. Farewell courteous Reader.</p>
+            <closer>
+               <signed>Thy friend to ſerve thee,</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
